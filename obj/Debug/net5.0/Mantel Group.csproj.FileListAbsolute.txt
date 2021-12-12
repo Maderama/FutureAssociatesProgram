@@ -1,0 +1,16 @@
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\bin\Debug\net5.0\Mantel Group.exe
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\bin\Debug\net5.0\Mantel Group.deps.json
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\bin\Debug\net5.0\Mantel Group.runtimeconfig.json
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\bin\Debug\net5.0\Mantel Group.runtimeconfig.dev.json
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\bin\Debug\net5.0\Mantel Group.dll
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\bin\Debug\net5.0\ref\Mantel Group.dll
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\bin\Debug\net5.0\Mantel Group.pdb
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\obj\Debug\net5.0\Mantel Group.csproj.AssemblyReference.cache
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\obj\Debug\net5.0\Mantel Group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\obj\Debug\net5.0\Mantel Group.AssemblyInfoInputs.cache
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\obj\Debug\net5.0\Mantel Group.AssemblyInfo.cs
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\obj\Debug\net5.0\Mantel Group.csproj.CoreCompileInputs.cache
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\obj\Debug\net5.0\Mantel Group.dll
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\obj\Debug\net5.0\ref\Mantel Group.dll
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\obj\Debug\net5.0\Mantel Group.pdb
+C:\Users\madis\Desktop\Files\Employment\Mantel Group\obj\Debug\net5.0\Mantel Group.genruntimeconfig.cache
